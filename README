@@ -1,0 +1,1 @@
+kubectl插件, 代替kubectl logs -f xxx -c xxx 方便查看日志，支持模糊匹配和交互选择

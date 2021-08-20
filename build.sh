@@ -1,0 +1,1 @@
+GOOS=linux CGO_ENABLED=0 GOARCH=amd64 go build -o kubectl-ilogs main.go
